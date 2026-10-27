@@ -1,0 +1,32 @@
+{
+  "document": "sample_docs/northwind_handbook.pdf",
+  "questions": [
+    {"q": "How many days of paid annual leave do full-time employees get?", "keywords": ["24"], "page": 2},
+    {"q": "How many leave days can be carried over to the next year?", "keywords": ["10"], "page": 2},
+    {"q": "When is a medical certificate needed for sick leave?", "keywords": ["3 consecutive"], "page": 2},
+    {"q": "How long is parental leave for the primary caregiver?", "keywords": ["26 weeks"], "page": 2},
+    {"q": "How many days per week can employees work remotely?", "keywords": ["3 days"], "page": 3},
+    {"q": "Which days must everyone be in the office?", "keywords": ["Tuesdays"], "page": 3},
+    {"q": "How much is the home office stipend for remote staff?", "keywords": ["15,000"], "page": 3},
+    {"q": "How often are fully remote arrangements reviewed?", "keywords": ["6 months"], "page": 3},
+    {"q": "Within how many days must expenses be submitted?", "keywords": ["30 days"], "page": 4},
+    {"q": "Above what amount are receipts mandatory?", "keywords": ["500"], "page": 4},
+    {"q": "What is the hotel cap per night in metro cities?", "keywords": ["6,000"], "page": 4},
+    {"q": "What is the daily meal allowance on business travel?", "keywords": ["1,200"], "page": 4},
+    {"q": "How soon must lost equipment be reported?", "keywords": ["24 hours"], "page": 5},
+    {"q": "How often are laptops replaced?", "keywords": ["4 years"], "page": 5},
+    {"q": "What is the minimum password length?", "keywords": ["14 characters"], "page": 5},
+    {"q": "By when must security training be completed?", "keywords": ["March 31"], "page": 5},
+    {"q": "Where is the company headquartered?", "keywords": ["Pune"], "page": 1},
+    {"q": "In which year was Northwind Labs founded?", "keywords": ["2018"], "page": 1},
+    {"q": "How many employees does the company have?", "keywords": ["240"], "page": 1},
+    {"q": "How early must domestic flights be booked?", "keywords": ["7 days"], "page": 4}
+  ],
+  "unanswerable": [
+    "What is the company's stock price?",
+    "Who is the CEO of Northwind Labs?",
+    "What is the dress code policy?",
+    "How much is the annual bonus?",
+    "Does the company offer free lunch in the cafeteria?"
+  ]
+}
